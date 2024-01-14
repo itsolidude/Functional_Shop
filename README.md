@@ -31,3 +31,5 @@ Explore the live version of the store: [Red Point Gadgets](https://redpointgadge
 ## Contact and Collaboration
 
 For a more detailed discussion about this project, specific customizations, or potential collaboration opportunities, please feel free to contact me directly.
+
+![redpoint](https://github.com/itsolidude/redpoint_Shop/assets/34197178/5cd43b8e-c108-40d2-ac76-8df82d7e65a8)
