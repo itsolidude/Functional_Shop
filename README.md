@@ -26,7 +26,8 @@ This repository illustrates my comprehensive customization of a Shopify store, h
 
 ### Live Demo
 
-Explore the live version of the store: [Red Point Gadgets](https://redpointgadgets.com/)
+Explore the live version of the store: [Red Point Gadgets](https://redpointgadgets.com/) (Offline since 3/25/2024)
+Feel free to conactt me for the full repository. Im happy to share it as long as you do not voilate the licensing it sadly falls under.
 
 ## Contact and Collaboration
 
